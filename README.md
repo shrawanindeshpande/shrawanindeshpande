@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @shrawanindeshpande
 - 👀 I’m Engineering Student
-- 🌱 I’m currently learning flutter
 - 📫 How to reach me shrawanid2000@gmail.com
 
 <!---
